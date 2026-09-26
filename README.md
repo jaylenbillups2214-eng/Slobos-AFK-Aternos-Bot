@@ -5,7 +5,7 @@ A Minecraft bot that helps keep an Aternos server online 24/7 by automatically j
 ---
 
 ## ✨ Features
-*   ✅ **Auto-Connect**: Automatically joins your server.
+*   ✅ **Auto-yConnect**: Automatically joins your server.
 *   ✅ **Infinite Uptime**: Prevents AFK kicks and server shutdowns.
 *   ✅ **Smart Reconnect**: Automatically reconnects if the internet drops or server restarts.
 *   ✅ **Render-Ready**: Includes "Self-Ping" to run 24/7 for FREE on Render.com.
